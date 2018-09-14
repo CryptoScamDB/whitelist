@@ -1,0 +1,7 @@
+{
+  "name": "@CryptoScamDB/whitelist",
+  "version": "1.0.0",
+  "dependencies": {
+    "js-yaml": "^3.12.0"
+  }
+}
