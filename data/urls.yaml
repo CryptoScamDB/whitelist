@@ -302,3 +302,15 @@
 -
     name: Neodium Network
     url: 'https://neodium.network'
+-
+    name: EtherScamDB
+    url: 'https://etherscamdb.info' 
+-
+    name: ESDB short URLs
+    url: 'https://esdb.link'
+-
+    name: CryptoScamDB
+    url: 'https://cryptoscamdb.org'
+-
+    name: CSDB short URLs
+    url: 'https://csdb.link'
