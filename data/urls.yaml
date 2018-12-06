@@ -2,20 +2,26 @@
     name: MyCrypto
     url: 'https://mycrypto.com'
     featured: true
-    description: Ethereum blockchain interface.
+    description: MyCrypto is a free, open-source interface for interacting with the blockchain
+    email: support@mycrypto.com
+    twitter: https://twitter.com/MyCrypto
+    facebook: https://www.facebook.com/mycryptoHQ/
+    medium: https://medium.com/@MyCrypto
+    linkedin: https://www.linkedin.com/company/mycrypto/
     addresses:
       - '0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520'
 -
     name: MetaMask
     url: 'https://metamask.io'
     featured: true
-    description: Ethereum Web3 wallet - browser extension
+    description: MetaMask brings Ethereum to your web browser
 -
     name: MyCryptoAPI
     url: 'https://mycryptoapi.com'
 -
     name: Ethereum
     url: 'https://ethereum.org'
+    description: Ethereum Foundation's official website
     featured: true
 -
     name: MyEtheroll
@@ -169,6 +175,7 @@
 -
     name: Kraken
     featured: true
+    description: Cryptocurrency exchange
     url: 'https://kraken.com'
 -
     name: MyEtherWallet Knowledge Base
