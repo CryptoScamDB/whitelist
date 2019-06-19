@@ -9,6 +9,7 @@
     medium: https://medium.com/@MyCrypto
     linkedin: https://www.linkedin.com/company/mycrypto/
     addresses:
+     ETH:
       - '0x4bbeEB066eD09B7AEd07bF39EEe0460DFa261520'
 -
     name: MetaMask
@@ -36,6 +37,7 @@
     url: 'https://etherscan.io'
     featured: true
     addresses:
+      ETH:
       - '0x71c7656ec7ab88b098defb751b7401b5f6d8976f'
     description: Block explorer
 -
