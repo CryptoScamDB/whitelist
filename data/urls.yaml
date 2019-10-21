@@ -295,8 +295,12 @@
     url: 'https://remme.io'
 -
     name: MyEtherWallet
+    featured: true
     description: Ethereum blockchain interface
     url: 'https://myetherwallet.com'
+    addresses:
+     ETH:
+      - '0xdecaf9cd2367cdbb726e904cd6397edfcae6068d'    
 -
     name: AirSwap
     url: 'https://airswap.io'
