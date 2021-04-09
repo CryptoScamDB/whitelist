@@ -327,3 +327,12 @@
 -
     name: CSDB short URLs
     url: 'https://csdb.link'
+-
+    name: 1Inch
+    url: 'https://1inch.exchange/'
+    featured: true
+    description: "1Inch - No.1 Ethereum DeFi aggregator and high efficient AMM"
+    twitter: https://twitter.com/1inchExchange
+    addresses:
+     ETH:
+      - '0x111111111117dc0aa78b770fa6a738034120c302'
