@@ -332,7 +332,10 @@
     url: 'https://1inch.exchange/'
     featured: true
     description: "1Inch - No.1 Ethereum DeFi aggregator and high efficient AMM"
-    twitter: https://twitter.com/1inchExchange
+    twitter: https://twitter.com/1inchNetwork
     addresses:
      ETH:
       - '0x111111111117dc0aa78b770fa6a738034120c302'
+      - '0x11111254369792b2ca5d084ab5eea397ca8fa48b'
+      - '0x11111112542d85b3ef69ae05771c2dccff4faa26'
+      - '0xdb38ae75c5f44276803345f7f02e95a0aeef5944'
